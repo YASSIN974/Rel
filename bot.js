@@ -10,7 +10,7 @@ client.on('ready', function(){
  game: { 
     type: 1,
      url: 'https://www.twitch.tv/skwadraa',
-    name: 'There is no place for love inside',
+    name: 'I do not want anything',
     application_id: '477187715658547201',
      assets: {
          large_image:   `${s[Math.floor(Math.random() * s.length)]}`,
